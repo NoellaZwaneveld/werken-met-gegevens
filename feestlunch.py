@@ -25,4 +25,4 @@ print(i) #berekening korting
 print(j) #berekening croissantjes + stokbroden
 """
 
-print(k) #antwoord berekening 1
+print(k) #antwoord berekening totaal
