@@ -20,4 +20,4 @@ print (f)
 print (g)
 """
 
-print (h)
+print (h) #berekening totaal
